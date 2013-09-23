@@ -1,0 +1,5 @@
+--- 
+name: CollaborativeFilteringData
+format: CollaborativeFiltering
+description: Runs data for CollaborativeFiltering domain. Rows are datasets and Columns are programs, with values as error rates of program running on dataset.
+restricted_access: false

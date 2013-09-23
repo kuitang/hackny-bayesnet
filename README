@@ -1,0 +1,14 @@
+You will need IPython, NumPy, SciPy, PyMC, Daft, and scikit-learn.
+
+The best way to get this software is to install Anaconda [1].
+You will need to separately run
+ - pip install pymc
+ - pip install daft
+
+[1] https://store.continuum.io/cshop/anaconda/
+
+Then in this directory, type
+ - ipython notebook --pylab=inline
+
+And go to 127.0.0.1:8888 in your browser. Enjoy!
+
